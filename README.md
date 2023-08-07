@@ -136,10 +136,9 @@ Against the (Camarena, 2022) research approach, this project offers a new approa
 **  
 Data Collection -** in Stage 1 and Stage 2 used direct input from document analysis, participant observation, and interview, we will apply quality assurance criteria and extracting relevant information.  
 **  
-Data analysis** – The project used thematic data analysis (NVivo
-software) to process the data in Stage 1 and Stage 2 and to ensure
-collection. to extract the major context factors from Stage 1 and the
-major AI factors from Stage 2, the process resulted in:  
+Data analysis** – The project used thematic data analysis (<body>
+<p><a href="https://lumivero.com/products/nvivo/">NVivo software</a></p> </body>) to process the data in Stage 1 and Stage 2 and to ensure collection. to extract the major context factors from Stage 1 and the major AI factors from Stage 2, the process resulted in:
+
 1. Stage 1 (major context factors)
 2. Stage 2 (major AI factors)
 3. Stage 3 relied on the data analysis of stage 1 (major context factors) and stage 2 (major AI factors).
