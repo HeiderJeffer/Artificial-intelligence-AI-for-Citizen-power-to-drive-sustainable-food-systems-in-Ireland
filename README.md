@@ -29,7 +29,7 @@ food programs, child nutrition
   > capabilities and ideas with generated virtuous circle party in
   > academia.
 
-**Background and Related Work**
+# Background and Related Work
 
 - Artificial intelligence (AI) for Sustainable food systems refers to a
   range of digital tools and techniques for information processing and
@@ -51,7 +51,7 @@ food programs, child nutrition
   [p. 22](https://www.sapea.info/wp-content/uploads/sustainable-food-system-report.pdf),
   2020).
 
-**Finding Study**
+## Finding Study
 
 - Study 1: Artificial Intelligence (AI) can enable or inhibit
   transitions to sustainability, due to its capacity to facilitate
@@ -94,96 +94,55 @@ food programs, child nutrition
   Standards for Hot School Meals, Nutritional Standards For School Meals
   online at: <https://www.gov.ie/en/publication/a9bfb-school-meals/>
 
-**Research objective  
-**The major research questions will answer in this project are:
+# Research objective  
+The major research questions will answer in this project are:
 
-- What are the current initiatives to promote AI for sustainable food
-  systems in Ireland?
 
-- What are the current challenges to AI for sustainable food systems in
-  Ireland?
+- What are the current initiatives to promote AI for sustainable food systems in Ireland?
+- What are the current challenges to AI for sustainable food systems in Ireland?
+- What are the potential benefits of citizen-led initiatives to promote AI for sustainable food systems in Ireland?
+- What are the best practices for citizen-led initiatives to promote AI for sustainable food systems in Ireland?
 
-- What are the potential benefits of citizen-led initiatives to promote
-  AI for sustainable food systems in Ireland?
+# Methodology  
+## Case study  
+Aiming to support both the implementation and the maintenance School Meals Scheme, Department of Social Protection - Republic of Ireland, School Meals Scheme provides funding to schools and organizations towards the provision of healthy food for school children.
 
-- What are the best practices for citizen-led initiatives to promote AI
-  for sustainable food systems in Ireland?
-
-**Methodology  
-Case study  
-**Aiming to support both the implementation and the maintenance School
-Meals Scheme, Department of Social Protection - Republic of Ireland,
-School Meals Scheme provides funding to schools and organizations
-towards the provision of healthy food for school children.
-
-Ireland-based software company Anne Heider food Solutions[^1] offers a
-suite of sustainable food products in Ireland to support School Meals
-Scheme to manage:  
+Ireland-based software company Anne Heider food Solutions[^1] offers a suite of sustainable food products in Ireland to support School Meals Scheme to manage:  
 (1) school nutrition programs.  
 (2) food distribution programs.  
 (3) administrative reviews.  
 (4) food tracking and reporting.
 
-As part of the Anne Heider food Solutions’ offering of a “software as a
-service” solution and for a monthly licensing fee, School Meals Scheme
-or Department of Social Protection authorities can access Anne Heider
-food Solutions program management features through a web page without
-the need for hardware or software infrastructure.
+As part of the Anne Heider food Solutions’ offering of a “software as a service” solution and for a monthly licensing fee, School Meals Scheme or Department of Social Protection authorities can access Anne Heider food Solutions program management features through a web page without the need for hardware or software infrastructure.
 
-Anne Heider food Solutions have also developed a new range of software
-features centered around the provision and reporting of nutrition
-information for School Meals Scheme. The information can be used by
-Department of Social Protection to plan then report about each meal
-under the Food Safety Authority of Ireland (Irish and EU legislation on
-food safety).
 
-It became necessary to launch a software development project to
-automatically capture nutrition and other meal data because of the
-offering and reporting of these new capabilities.
+Anne Heider food Solutions have also developed a new range of software features centered around the provision and reporting of nutrition information for School Meals Scheme. The information can be used by Department of Social Protection to plan then report about each meal under the Food Safety Authority of Ireland (Irish and EU legislation on food safety).
 
-In this research we present the Anne Heider food Solutions new software
-new steps against the existing steps provided by Camarena software \[1\]
-Plan Menu/ Place Order: Integrated compliance check, \[2\] School sites
-enter daily notes: Integrated compliance check and \[3\] report to
-federal / state / local authority (Camarena, 2022).
+It became necessary to launch a software development project to automatically capture nutrition and other meal data because of the offering and reporting of these new capabilities.
 
-**Research Approach  
-**This project is designed to be exploratory due to the nascent nature
-of Anne Heider food Solutions due the how and why of a recent series of
-events over which the investigator has little to no influence (Yin,
-2014, p. 9).  
+In this research we present the Anne Heider food Solutions new software new steps against the existing steps provided by Camarena software \[1\] Plan Menu/ Place Order: Integrated compliance check, \[2\] School sites enter daily notes: Integrated compliance check and \[3\] report to federal / state / local authority (Camarena, 2022).
+
+## Research Approach  
+This project is designed to be exploratory due to the nascent nature of Anne Heider food Solutions due the how and why of a recent series of events over which the investigator has little to no influence (Yin, 2014, p. 9).  
   
 The research approach three main stages:  
-Stage 1” understanding the context  
-Stage 2: understanding AI **  
-**Stage 3: investigating the opportunities and challenges of AI for
-citizen power to drive sustainable food systems in Ireland, document
-analysis, participant observation, and interviews.  
+1. Stage 1” understanding the context
+2. Stage 2: understanding AI **
+3. Stage 3: investigating the opportunities and challenges of AI for citizen power to drive sustainable food systems in Ireland, document analysis, participant observation, and interviews.  
   
-**Triangulation and Systems thinking:** The research is qualitative in
-nature, relying on thematic analysis[^2]. Triangulation—the use of
-evidence from many sources to support facts and findings—is made
-possible by gathering data from three different sources (Rowley, 2002;
-Yin, 2014), the epistemological lens of systems thinking, which is
-constrained by the researcher's worldviews of what defines sustainable
-food systems, is used to solve sustainability concerns. (Abson et al.,
-2017; Dorninger et al., 2020). **  
+**Triangulation and Systems thinking:** The research is qualitative in nature, relying on thematic analysis[^2]. Triangulation—the use of evidence from many sources to support facts and findings—is made possible by gathering data from three different sources (Rowley, 2002; Yin, 2014), the epistemological lens of systems thinking, which is constrained by the researcher's worldviews of what defines sustainable food systems, is used to solve sustainability concerns. (Abson et al.,2017; Dorninger et al., 2020). **  
 **  
-Against the (Camarena, 2022) research approach, this project offers a
-new approach:  
+Against the (Camarena, 2022) research approach, this project offers a new approach:  
 **  
-Data Collection -** in Stage 1 and Stage 2 used direct input from
-document analysis, participant observation, and interview, we will apply
-quality assurance criteria and extracting relevant information.  
+Data Collection -** in Stage 1 and Stage 2 used direct input from document analysis, participant observation, and interview, we will apply quality assurance criteria and extracting relevant information.  
 **  
 Data analysis** – The project used thematic data analysis (NVivo
 software) to process the data in Stage 1 and Stage 2 and to ensure
 collection. to extract the major context factors from Stage 1 and the
 major AI factors from Stage 2, the process resulted in:  
-Stage 1 (major context factors)  
-Stage 2 (major AI factors)  
-Stage 3 relied on the data analysis of stage 1 (major context factors)
-and stage 2 (major AI factors).
+1. Stage 1 (major context factors)
+2. Stage 2 (major AI factors)
+3. Stage 3 relied on the data analysis of stage 1 (major context factors) and stage 2 (major AI factors).
 
 [^1]: Company names in this article are pseudonyms.
 
