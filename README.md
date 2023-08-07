@@ -93,7 +93,7 @@ This project is designed to be exploratory due to the nascent nature of Anne Hei
   
 The research approach three main stages:  
 1. Stage 1: understanding the context
-2. Stage 2: understanding AI **
+2. Stage 2: understanding AI
 3. Stage 3: investigating the opportunities and challenges of AI for citizen power to drive sustainable food systems in Ireland, document analysis, participant observation, and interviews.  
   
 **Triangulation and Systems thinking:** 
@@ -111,9 +111,9 @@ in Stage 1 and Stage 2 used direct input from document analysis, participant obs
 
 The project used thematic data analysis (<a href="https://lumivero.com/products/nvivo/">NVivo software</a>) to process the data in Stage 1 and Stage 2 and to ensure collection. to extract the major context factors from Stage 1 and the major AI factors from Stage 2, the process resulted in:
 
-1. Stage 1 (major context factors)
-2. Stage 2 (major AI factors)
-3. Stage 3 relied on the data analysis of stage 1 (major context factors) and stage 2 (major AI factors).
+1. Stage 1 (**major context factors**) **against the (Camarena, 2022)**
+2. Stage 2 (**major AI factors**) **against the (Camarena, 2022)**
+3. Stage 3 relied on the data analysis of stage 1 (major context factors) and stage 2 (major AI factors). **against the (Camarena, 2022)**
 
 [^1]: Company names in this article are pseudonyms.
 
