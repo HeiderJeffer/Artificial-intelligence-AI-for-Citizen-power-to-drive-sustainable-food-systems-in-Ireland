@@ -126,7 +126,7 @@ In this research we present the Anne Heider food Solutions new software new step
 This project is designed to be exploratory due to the nascent nature of Anne Heider food Solutions due the how and why of a recent series of events over which the investigator has little to no influence (Yin, 2014, p. 9).  
   
 The research approach three main stages:  
-1. Stage 1” understanding the context
+1. Stage 1: understanding the context
 2. Stage 2: understanding AI **
 3. Stage 3: investigating the opportunities and challenges of AI for citizen power to drive sustainable food systems in Ireland, document analysis, participant observation, and interviews.  
   
