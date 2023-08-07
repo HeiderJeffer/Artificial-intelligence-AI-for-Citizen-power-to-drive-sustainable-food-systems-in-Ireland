@@ -102,7 +102,7 @@ The research is qualitative in nature, relying on thematic analysis[^2]. Triangu
 
 **Against the (Camarena, 2022) research approach, this project offers a new approach:**
 
-### Data Collection
+### Data collection
 
 in Stage 1 and Stage 2 used direct input from document analysis, participant observation, and interview, we will apply quality assurance criteria and extracting relevant information.  
   
