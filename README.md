@@ -1,4 +1,4 @@
-**Artificial Intelligence (AI) for Citizen power to drive sustainable
+# Artificial Intelligence (AI) for Citizen power to drive sustainable
 food systems in Ireland**
 
 By PhD Candidate [Heider Jeffer](https://github.com/HeiderJeffer),
@@ -8,7 +8,8 @@ Primary Supervisor: Dr Anne Mullen - 2023 August 3, Bozen, Italy.
 Intelligence, information management, sustainable food systems, school
 food programs, child nutrition
 
-**Purpose and aims**
+# Purpose and aims
+
 
 - Overall, the scientific significance and novelty of the project
   > respond to Irish national, European, and international incentives
