@@ -1,6 +1,6 @@
 # Artificial Intelligence (AI) for Citizen power to drive sustainable food systems in Ireland
 
-By PhD Candidate [Heider Jeffer](https://github.com/HeiderJeffer),
+By [Heider Jeffer](https://github.com/HeiderJeffer) Researcher,
 
 Primary Supervisor: Dr Anne Mullen
 
