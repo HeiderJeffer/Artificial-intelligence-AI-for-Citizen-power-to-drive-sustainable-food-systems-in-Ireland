@@ -1,10 +1,8 @@
 # Artificial Intelligence (AI) for Citizen power to drive sustainable food systems in Ireland
 
-By [Heider Jeffer](https://github.com/HeiderJeffer) Researcher,
+Author: Heider Jeffer
 
-Primary Supervisor: Dr Anne Mullen
 
-2023 August 3, Bozen, Italy.
 
 **Keywords:** sustainability, food, citizen, climate, health, Artificial
 Intelligence, information management, sustainable food systems, school
